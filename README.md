@@ -44,3 +44,11 @@ Car Dealer app uses a number of open source projects to work properly:
 
 * [Next.js] - Client-side web app framework written in React/Next.js
 * [Tailwind] - The popular CSS library in the world
+
+## Screenshots
+
+![Image](https://github.com/user-attachments/assets/d0d4092f-299e-4b4d-b611-a4a07c370673)
+![Image](https://github.com/user-attachments/assets/0c7e8be2-3189-40af-b5f6-8ccf0c5c4739)
+![Image](https://github.com/user-attachments/assets/e015e62d-3b0f-4b60-9636-396c9bb623ad)
+![Image](https://github.com/user-attachments/assets/c8b28876-14c1-44c9-8dc8-ead2e16f4d35)
+![Image](https://github.com/user-attachments/assets/2a0414ff-2aa1-4c0c-9bda-73bb74d4d5df)
